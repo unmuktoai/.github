@@ -60,3 +60,6 @@ We are excited to hear from those of you who are ready to embark on this journey
 
 
 Let's make AI accessible and beneficial for everyone who speaks Bengali!
+
+# unmukto.ai @ discord 
+Coming Soon !
