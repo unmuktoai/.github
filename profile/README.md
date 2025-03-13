@@ -1,7 +1,6 @@
 # Welcome to unmukto.ai
 
-unmukto.ai is an open initiative aimed at creating a centralized platform to showcase and collaborate on Bengali language models, datasets, and projects. Our goal is to empower developers, researchers, and enthusiasts by providing accessible resources and a community to foster innovation in Bengali AI development.
-
+unmukto.ai is an open initiative aimed at creating a centralized platform to showcase and collaborate in Bengal. Our goal is to empower developers, researchers, and enthusiasts by providing accessible resources and a community to foster innovation inAI development in West Bengal.
 ## Join Us
 We invite developers, data scientists, and all interested parties to join us in building Unmukto.ai. Whether you are looking to contribute to open source, learn more about AI, or connect with like-minded individuals, there is a place for you here. Help us build a vibrant community and a robust directory of resources.
 
